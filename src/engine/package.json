@@ -1,0 +1,14 @@
+{
+    "name": "quine-game-engine",
+    "version": "1.0.0",
+    "type": "module",
+    "author": "icitry",
+    "scripts": {
+        "install-deps": "npm install",
+        "build": "node main.js"
+    },
+    "dependencies": {
+        "@rollup/plugin-terser": "^0.4.4",
+        "rollup": "^4.18.0"
+    }
+}
