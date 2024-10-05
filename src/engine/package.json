@@ -9,6 +9,6 @@
     },
     "dependencies": {
         "@rollup/plugin-terser": "^0.4.4",
-        "rollup": "^4.18.0"
+        "rollup": "^4.24.0"
     }
 }
